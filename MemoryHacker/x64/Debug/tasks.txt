@@ -1,0 +1,278 @@
+269
+Process Name: ETDCtrl.exe
+Process Path: C:\WINDOWS\system32\ETDCtrl.exe
+Process Name: nvcontainer.exe
+Process Path: C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+Process Name: nvcontainer.exe
+Process Path: C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+Process Name: TeamViewer.exe
+Process Path: C:\Program Files\TeamViewer\TeamViewer.exe
+Process Name: sihost.exe
+Process Path: C:\WINDOWS\system32\sihost.exe
+Process Name: svchost.exe
+Process Path: C:\WINDOWS\system32\svchost.exe
+Process Name: svchost.exe
+Process Path: C:\WINDOWS\system32\svchost.exe
+Process Name: svchost.exe
+Process Path: C:\WINDOWS\system32\svchost.exe
+Process Name: svchost.exe
+Process Path: C:\WINDOWS\system32\svchost.exe
+Process Name: taskhostw.exe
+Process Path: C:\WINDOWS\system32\taskhostw.exe
+Process Name: Explorer.EXE
+Process Path: C:\WINDOWS\Explorer.EXE
+Process Name: svchost.exe
+Process Path: C:\WINDOWS\system32\svchost.exe
+Process Name: SearchHost.exe
+Process Path: C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\SearchHost.exe
+Process Name: StartMenuExperienceHost.exe
+Process Path: C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+Process Name: Widgets.exe
+Process Path: C:\Program Files\WindowsApps\MicrosoftWindows.Client.WebExperience_421.20070.765.0_x64__cw5n1h2txyewy\Dashboard\Widgets.exe
+Process Name: RuntimeBroker.exe
+Process Path: C:\Windows\System32\RuntimeBroker.exe
+Process Name: RuntimeBroker.exe
+Process Path: C:\Windows\System32\RuntimeBroker.exe
+Process Name: NVIDIA Web Helper.exe
+Process Path: C:\Program Files (x86)\NVIDIA Corporation\NvNode\NVIDIA Web Helper.exe
+Process Name: svchost.exe
+Process Path: C:\WINDOWS\system32\svchost.exe
+Process Name: conhost.exe
+Process Path: C:\WINDOWS\system32\conhost.exe
+Process Name: DllHost.exe
+Process Path: C:\WINDOWS\system32\DllHost.exe
+Process Name: PhoneExperienceHost.exe
+Process Path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.22092.214.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+Process Name: RuntimeBroker.exe
+Process Path: C:\Windows\System32\RuntimeBroker.exe
+Process Name: NVIDIA Share.exe
+Process Path: C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe
+Process Name: NVIDIA Share.exe
+Process Path: C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe
+Process Name: NVIDIA Share.exe
+Process Path: C:\Program Files\NVIDIA Corporation\NVIDIA GeForce Experience\NVIDIA Share.exe
+Process Name: SecurityHealthSystray.exe
+Process Path: C:\Windows\System32\SecurityHealthSystray.exe
+Process Name: RtkAudUService64.exe
+Process Path: C:\Windows\System32\RtkAudUService64.exe
+Process Name: steam.exe
+Process Path: C:\Program Files (x86)\Steam\steam.exe
+Process Name: ScanToPCActivationApp.exe
+Process Path: C:\Program Files\HP\HP OfficeJet Pro 6970\Bin\ScanToPCActivationApp.exe
+Process Name: steamwebhelper.exe
+Process Path: C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+Process Name: steamwebhelper.exe
+Process Path: C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+Process Name: steamwebhelper.exe
+Process Path: C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+Process Name: msteams.exe
+Process Path: C:\Program Files\WindowsApps\MicrosoftTeams_22308.1003.1743.8209_x64__8wekyb3d8bbwe\msteams.exe
+Process Name: steamwebhelper.exe
+Process Path: C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+Process Name: RuntimeBroker.exe
+Process Path: C:\Windows\System32\RuntimeBroker.exe
+Process Name: msedgewebview2.exe
+Process Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.44\msedgewebview2.exe
+Process Name: msedgewebview2.exe
+Process Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.44\msedgewebview2.exe
+Process Name: msedgewebview2.exe
+Process Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.44\msedgewebview2.exe
+Process Name: msedgewebview2.exe
+Process Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.44\msedgewebview2.exe
+Process Name: msedgewebview2.exe
+Process Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.44\msedgewebview2.exe
+Process Name: msedgewebview2.exe
+Process Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.44\msedgewebview2.exe
+Process Name: svchost.exe
+Process Path: C:\WINDOWS\system32\svchost.exe
+Process Name: steamwebhelper.exe
+Process Path: C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+Process Name: steamwebhelper.exe
+Process Path: C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+Process Name: steamwebhelper.exe
+Process Path: C:\Program Files (x86)\Steam\bin\cef\cef.win7x64\steamwebhelper.exe
+Process Name: HPNETW~1.EXE
+Process Path: C:\PROGRA~1\HP\HPOFFI~1\Bin\HPNETW~1.EXE
+Process Name: Radeonsoftware.exe
+Process Path: C:\Program Files\AMD\CNext\CNext\Radeonsoftware.exe
+Process Name: cncmd.exe
+Process Path: C:\Program Files\AMD\CNext\CNext\cncmd.exe
+Process Name: cmd.exe
+Process Path: C:\WINDOWS\system32\cmd.exe
+Process Name: conhost.exe
+Process Path: C:\WINDOWS\system32\conhost.exe
+Process Name: svchost.exe
+Process Path: C:\WINDOWS\system32\svchost.exe
+Process Name: msedgewebview2.exe
+Process Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.44\msedgewebview2.exe
+Process Name: msedgewebview2.exe
+Process Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.44\msedgewebview2.exe
+Process Name: msedgewebview2.exe
+Process Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.44\msedgewebview2.exe
+Process Name: msedgewebview2.exe
+Process Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.44\msedgewebview2.exe
+Process Name: msedgewebview2.exe
+Process Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.44\msedgewebview2.exe
+Process Name: msedgewebview2.exe
+Process Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.44\msedgewebview2.exe
+Process Name: ApplicationFrameHost.exe
+Process Path: C:\WINDOWS\system32\ApplicationFrameHost.exe
+Process Name: SystemSettings.exe
+Process Path: C:\Windows\ImmersiveControlPanel\SystemSettings.exe
+Process Name: UserOOBEBroker.exe
+Process Path: C:\Windows\System32\oobe\UserOOBEBroker.exe
+Process Name: AMDRSSrcExt.exe
+Process Path: C:\Program Files\AMD\CNext\CNext\AMDRSSrcExt.exe
+Process Name: ShellExperienceHost.exe
+Process Path: C:\WINDOWS\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+Process Name: RuntimeBroker.exe
+Process Path: C:\Windows\System32\RuntimeBroker.exe
+Process Name: GameBar.exe
+Process Path: C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.822.10271.0_x64__8wekyb3d8bbwe\GameBar.exe
+Process Name: GameBarFTServer.exe
+Process Path: C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_5.822.10271.0_x64__8wekyb3d8bbwe\GameBarFTServer.exe
+Process Name: RuntimeBroker.exe
+Process Path: C:\Windows\System32\RuntimeBroker.exe
+Process Name: devenv.exe
+Process Path: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe
+Process Name: PerfWatson2.exe
+Process Path: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\PerfWatson2.exe
+Process Name: Microsoft.ServiceHub.Controller.exe
+Process Path: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\controller\Microsoft.ServiceHub.Controller.exe
+Process Name: ServiceHub.VSDetouredHost.exe
+Process Path: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.VSDetouredHost.exe
+Process Name: ServiceHub.ThreadedWaitDialog.exe
+Process Path: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.ThreadedWaitDialog.exe
+Process Name: ServiceHub.IndexingService.exe
+Process Path: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.Dotnet.x64\ServiceHub.IndexingService.exe
+Process Name: ServiceHub.IdentityHost.exe
+Process Path: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.IdentityHost.exe
+Process Name: ServiceHub.SettingsHost.exe
+Process Path: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.SettingsHost.exe
+Process Name: VCPkgSrv.exe
+Process Path: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\vcpackages\x86\VCPkgSrv.exe
+Process Name: ServiceHub.Host.dotnet.x64.exe
+Process Path: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.Dotnet.x64\ServiceHub.Host.dotnet.x64.exe
+Process Name: MSBuild.exe
+Process Path: C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\MSBuild.exe
+Process Name: conhost.exe
+Process Path: C:\WINDOWS\system32\conhost.exe
+Process Name: ServiceHub.IntellicodeModelService.exe
+Process Path: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.IntellicodeModelService.exe
+Process Name: ServiceHub.Host.AnyCPU.exe
+Process Path: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.Host.AnyCPU.exe
+Process Name: ServiceHub.Host.netfx.x86.exe
+Process Path: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.Host.netfx.x86.exe
+Process Name: ServiceHub.TestWindowStoreHost.exe
+Process Path: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.AnyCPU\ServiceHub.TestWindowStoreHost.exe
+Process Name: VCPkgSrv.exe
+Process Path: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\vcpackages\x86\VCPkgSrv.exe
+Process Name: ServiceHub.DataWarehouseHost.exe
+Process Path: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.DataWarehouseHost.exe
+Process Name: WebViewHost.exe
+Process Path: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\WebViewHost\WebViewHost.exe
+Process Name: VCPkgSrv.exe
+Process Path: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\vcpackages\x86\VCPkgSrv.exe
+Process Name: svchost.exe
+Process Path: C:\WINDOWS\system32\svchost.exe
+Process Name: XboxGameBarSpotify.exe
+Process Path: C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.200.1165.0_x86__zpdnekdrzrea0\XboxGameBarSpotify.exe
+Process Name: RuntimeBroker.exe
+Process Path: C:\Windows\System32\RuntimeBroker.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: RuntimeBroker.exe
+Process Path: C:\Windows\System32\RuntimeBroker.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: DllHost.exe
+Process Path: C:\WINDOWS\system32\DllHost.exe
+Process Name: Notepad.exe
+Successfully found and opened handle to process!
+Sanity Check: \Device\HarddiskVolume3\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2210.5.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: msedge.exe
+Process Path: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Process Name: smartscreen.exe
+Process Path: C:\Windows\System32\smartscreen.exe
+Process Name: msinfo32.exe
+Process Path: C:\WINDOWS\system32\msinfo32.exe
+Process Name: VCPkgSrv.exe
+Process Path: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\VC\vcpackages\x86\VCPkgSrv.exe
+Process Name: VsDebugConsole.exe
+Process Path: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugConsole.exe
+Process Name: conhost.exe
+Process Path: C:\WINDOWS\system32\conhost.exe
+Process Name: OpenConsole.exe
+Process Path: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.15.2875.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+Process Name: WindowsTerminal.exe
+Process Path: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.15.2875.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+Process Name: RuntimeBroker.exe
+Process Path: C:\Windows\System32\RuntimeBroker.exe
+Process Name: msedgewebview2.exe
+Process Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.44\msedgewebview2.exe
+Process Name: msedgewebview2.exe
+Process Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.44\msedgewebview2.exe
+Process Name: msedgewebview2.exe
+Process Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.44\msedgewebview2.exe
+Process Name: msedgewebview2.exe
+Process Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.44\msedgewebview2.exe
+Process Name: msedgewebview2.exe
+Process Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.44\msedgewebview2.exe
+Process Name: msedgewebview2.exe
+Process Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.44\msedgewebview2.exe
+Process Name: msedgewebview2.exe
+Process Path: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\108.0.1462.44\msedgewebview2.exe
+Process Name: cmd.exe
+Process Path: C:\WINDOWS\system32\cmd.exe
+Process Name: conhost.exe
+Process Path: C:\WINDOWS\system32\conhost.exe
+Process Name: OpenConsole.exe
+Process Path: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.15.2875.0_x64__8wekyb3d8bbwe\OpenConsole.exe
+Process Name: WindowsTerminal.exe
+Process Path: C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.15.2875.0_x64__8wekyb3d8bbwe\WindowsTerminal.exe
+Process Name: BridgeCommunication.exe
+Process Path: C:\WINDOWS\System32\DriverStore\FileRepository\hpcustomcapcomp.inf_amd64_9b42a3e82673e3bb\x64\BridgeCommunication.exe
+Process Name: DataExchangeHost.exe
+Process Path: C:\Windows\System32\DataExchangeHost.exe
+Process Name: FESearchHost.exe
+Process Path: C:\WINDOWS\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\FESearchHost.exe
+Process Name: MemoryHacker.exe
+Process Path: C:\Users\Macy\source\repos\MemoryHacker\x64\Debug\MemoryHacker.exe

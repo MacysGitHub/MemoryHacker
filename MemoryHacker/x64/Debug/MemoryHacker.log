@@ -1,0 +1,4 @@
+﻿  OpenProcessByName.cpp
+C:\Users\Macy\source\repos\MemoryHacker\MemoryHacker\OpenProcessByName.cpp(83,20): warning C4101: 'progSize': unreferenced local variable
+C:\Users\Macy\source\repos\MemoryHacker\MemoryHacker\OpenProcessByName.cpp(43): warning C4715: 'FindTargetProcess': not all control paths return a value
+  MemoryHacker.vcxproj -> C:\Users\Macy\source\repos\MemoryHacker\x64\Debug\MemoryHacker.exe
