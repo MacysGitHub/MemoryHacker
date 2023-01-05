@@ -1,10 +1,9 @@
 ﻿  OpenProcessByName.cpp
-C:\Users\macyg\source\repos\MemoryHacker-main\MemoryHacker\OpenProcessByName.cpp(125,44): warning C4302: 'type cast': truncation from 'char *' to 'char'
-C:\Users\macyg\source\repos\MemoryHacker-main\MemoryHacker\OpenProcessByName.cpp(89,11): warning C4101: 'progSize': unreferenced local variable
-C:\Users\macyg\source\repos\MemoryHacker-main\MemoryHacker\OpenProcessByName.cpp(106,29): warning C4101: 'meminfo': unreferenced local variable
-C:\Users\macyg\source\repos\MemoryHacker-main\MemoryHacker\OpenProcessByName.cpp(112,9): warning C4101: 'buffer': unreferenced local variable
-C:\Users\macyg\source\repos\MemoryHacker-main\MemoryHacker\OpenProcessByName.cpp(44): warning C4715: 'FindTargetProcess': not all control paths return a value
-C:\Users\macyg\source\repos\MemoryHacker-main\MemoryHacker\OpenProcessByName.cpp(157): warning C4715: 'OpenProcessByName': not all control paths return a value
+C:\Users\macyg\source\repos\MemoryHacker-main\MemoryHacker\OpenProcessByName.cpp(138,11): warning C4101: 'progSize': unreferenced local variable
+C:\Users\macyg\source\repos\MemoryHacker-main\MemoryHacker\OpenProcessByName.cpp(155,29): warning C4101: 'meminfo': unreferenced local variable
+C:\Users\macyg\source\repos\MemoryHacker-main\MemoryHacker\OpenProcessByName.cpp(161,9): warning C4101: 'buffer': unreferenced local variable
+C:\Users\macyg\source\repos\MemoryHacker-main\MemoryHacker\OpenProcessByName.cpp(93): warning C4715: 'FindTargetProcess': not all control paths return a value
+C:\Users\macyg\source\repos\MemoryHacker-main\MemoryHacker\OpenProcessByName.cpp(226): warning C4715: 'OpenProcessByName': not all control paths return a value
   Searching libraries
       Searching C:\Program Files (x86)\Windows Kits\10\lib\10.0.22000.0\um\x64\dbghelp.lib:
   Finished searching libraries
